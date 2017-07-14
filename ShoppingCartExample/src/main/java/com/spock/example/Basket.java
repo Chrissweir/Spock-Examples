@@ -33,10 +33,13 @@ public class Basket {
 
         return total;
     }
-    
+
     public int getProductTypesCount()
     {
         return contents.size();
     }
 
+    public void clearAllProducts(){
+        contents.clear();
+    }
 }
