@@ -51,11 +51,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BasketTest.groovy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BasketTest.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/spock/example/BasketTest.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="81" column="5" lean-forward="false" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+            <state relative-caret-position="349">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="e#27#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonSetupSpec.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/spock/example/CommonSetupSpec.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="42" column="33" lean-forward="false" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
               <folding>
                 <element signature="e#27#54#0" expanded="true" />
               </folding>
@@ -86,6 +98,7 @@
         <option value="$PROJECT_DIR$/ShoppingCartExample.iml" />
         <option value="$PROJECT_DIR$/src/main/java/com/spock/example/Basket.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/spock/example/BasketTest.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/com/spock/example/CommonSetupSpec.groovy" />
       </list>
     </option>
   </component>
@@ -136,6 +149,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ShoppingCartExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ShoppingCartExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ShoppingCartExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ShoppingCartExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ShoppingCartExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ShoppingCartExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -171,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BasketTest">
+  <component name="RunManager" selected="JUnit.CommonSetupSpec">
     <configuration default="false" name="BasketTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -207,6 +274,32 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="CommonSetupSpec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.spock.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ShoppingCartExample" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.spock.example" />
+      <option name="MAIN_CLASS_NAME" value="com.spock.example.CommonSetupSpec" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -606,14 +699,16 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JUnit.BasketTest" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.All in ShoppingCartExample" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CommonSetupSpec" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.BasketTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.All in ShoppingCartExample" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CommonSetupSpec" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.BasketTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.All in ShoppingCartExample" />
       </list>
     </recent_temporary>
   </component>
@@ -628,17 +723,11 @@
       <option name="presentableId" value="Default" />
       <updated>1500035871144</updated>
       <workItem from="1500035873776" duration="2438000" />
-      <workItem from="1500038339669" duration="2550000" />
+      <workItem from="1500038339669" duration="3717000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BasketTest - 2017.07.14 at 15h 09m 48s.xml">
-      <configuration name="BasketTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BasketTest - 2017.07.14 at 15h 10m 07s.xml">
-      <configuration name="BasketTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BasketTest - 2017.07.14 at 15h 10m 33s.xml">
       <configuration name="BasketTest" configurationId="JUnit" />
     </history-entry>
@@ -663,9 +752,15 @@
     <history-entry file="BasketTest - 2017.07.14 at 15h 40m 37s.xml">
       <configuration name="BasketTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CommonSetupSpec - 2017.07.14 at 15h 54m 11s.xml">
+      <configuration name="CommonSetupSpec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommonSetupSpec - 2017.07.14 at 16h 00m 11s.xml">
+      <configuration name="CommonSetupSpec" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4988000" />
+    <option name="totallyTimeSpent" value="6155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -791,8 +886,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/spock/example/BasketTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="81" column="5" lean-forward="false" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+        <state relative-caret-position="349">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#27#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/spock/example/CommonSetupSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="42" column="33" lean-forward="false" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
           <folding>
             <element signature="e#27#54#0" expanded="true" />
           </folding>

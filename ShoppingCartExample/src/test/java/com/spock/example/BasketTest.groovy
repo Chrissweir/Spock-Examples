@@ -2,6 +2,7 @@ package com.spock.example
 
 import spock.lang.Narrative
 import spock.lang.Specification
+import spock.lang.Subject
 import spock.lang.Title
 
 /**
@@ -13,6 +14,7 @@ The weight is then used for billing during shipping calculations.
 Electronic goods have always zero weight.""")
 
 @Title("Unit test for basket weight")
+@Subject(Basket)
 class BasketTest extends Specification {
     def "A basket with one product has equal weight"(){
         given: "an empty backet and TV"
