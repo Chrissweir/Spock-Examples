@@ -87,7 +87,7 @@ class ImageNameValidatorTest extends Specification {
 
         expect: "that only valid filenames are accepted"
         validator.isValidImageExtension(pictureFile) == validPicture
-
+        println "Data Pipes Example - " + pictureFile + " -> " + validPicture
         where:"sample image names are"
         pictureFile << ["scenery.jpg","house.jpeg","car.png","sky.tiff","dance_bunny.gif"]
         validPicture << [true,true,true,false,false]

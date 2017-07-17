@@ -36,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImageNameValidatorTest.groovy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ImageNameValidatorTest.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/groovy/com/spock/examples/parameterized/ImageNameValidatorTest.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="71" column="18" lean-forward="false" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+            <state relative-caret-position="358">
+              <caret line="94" column="1" lean-forward="true" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
               <folding>
                 <element signature="e#42#69#0" expanded="true" />
               </folding>
@@ -48,24 +48,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImageExtensionCheck.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ImageExtensionCheck.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/spock/examples/parameterized/ImageExtensionCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="289">
+              <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding>
                 <element signature="e#263#264#0" expanded="true" />
                 <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#488#489#0" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#572#573#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#674#675#0" expanded="true" />
-                <element signature="e#730#731#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,6 +82,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/spock/examples/parameterized/d.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/spock/examples/parameterized/ImageNameValidator.java" />
         <option value="$PROJECT_DIR$/src/test/groovy/com/spock/examples/parameterized/ImageNameValidatorTest.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spock/examples/parameterized/ImageExtensionCheck.java" />
       </list>
     </option>
   </component>
@@ -676,20 +667,11 @@
       <updated>1500293045225</updated>
       <workItem from="1500293046787" duration="8325000" />
       <workItem from="1500304920066" duration="13000" />
-      <workItem from="1500306549185" duration="193000" />
+      <workItem from="1500306549185" duration="448000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ImageNameValidatorTest - 2017.07.17 at 14h 54m 18s.xml">
-      <configuration name="ImageNameValidatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ImageNameValidatorTest - 2017.07.17 at 14h 54m 41s.xml">
-      <configuration name="ImageNameValidatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ImageNameValidatorTest - 2017.07.17 at 14h 58m 26s.xml">
-      <configuration name="ImageNameValidatorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ImageNameValidatorTest - 2017.07.17 at 15h 27m 18s.xml">
       <configuration name="ImageNameValidatorTest" configurationId="JUnit" />
     </history-entry>
@@ -711,9 +693,18 @@
     <history-entry file="ImageNameValidatorTest - 2017.07.17 at 16h 52m 16s.xml">
       <configuration name="ImageNameValidatorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ImageNameValidatorTest - 2017.07.17 at 16h 54m 18s.xml">
+      <configuration name="ImageNameValidatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageNameValidatorTest - 2017.07.17 at 16h 55m 31s.xml">
+      <configuration name="ImageNameValidatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageNameValidatorTest - 2017.07.17 at 16h 55m 43s.xml">
+      <configuration name="ImageNameValidatorTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8531000" />
+    <option name="totallyTimeSpent" value="8786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -729,7 +720,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -790,16 +781,6 @@
           <folding>
             <element signature="e#263#264#0" expanded="true" />
             <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -839,16 +820,6 @@
           <folding>
             <element signature="e#263#264#0" expanded="true" />
             <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -871,27 +842,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spock/examples/parameterized/ImageExtensionCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/spock/examples/parameterized/ImageNameValidator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -904,10 +854,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/groovy/com/spock/examples/parameterized/ImageNameValidatorTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="71" column="18" lean-forward="false" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+        <state relative-caret-position="358">
+          <caret line="94" column="1" lean-forward="true" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
           <folding>
             <element signature="e#42#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spock/examples/parameterized/ImageExtensionCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
           </folding>
         </state>
       </provider>

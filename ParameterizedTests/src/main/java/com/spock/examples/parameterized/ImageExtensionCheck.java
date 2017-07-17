@@ -26,7 +26,4 @@ public class ImageExtensionCheck {
     public void setErrorDescription(String errorDescription) {
         this.errorDescription = errorDescription;
     }
-
-
-
 }
