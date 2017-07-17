@@ -9,7 +9,7 @@ public class BillableBasket extends Basket {
     private CreditCardProcessor creditCardProcessor;
 
     public BillableBasket() {
-//		System.out.println("BillableBasket is starting");
+		System.out.println("BillableBasket is starting");
     }
 
     public void checkout() {
@@ -27,4 +27,3 @@ public class BillableBasket extends Basket {
         this.creditCardProcessor = creditCardProcessor;
     }
 }
-
