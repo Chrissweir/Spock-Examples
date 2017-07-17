@@ -68,6 +68,8 @@ class ImageNameValidatorTest extends Specification {
         imageExtensionCheck.result == validPicture
         imageExtensionCheck.errorCode == error
         imageExtensionCheck.errorDescription == description
+        print "Each parameter is treated as its own test ->"
+        println " Checking "+ pictureFile + " parameter"
 
         where: "sample image names are"
         pictureFile       || validPicture | error      | description
