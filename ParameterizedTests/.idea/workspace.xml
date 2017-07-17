@@ -39,9 +39,11 @@
       <file leaf-file-name="ImageNameValidatorTest.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/groovy/com/spock/examples/parameterized/ImageNameValidatorTest.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="53" column="64" lean-forward="false" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="64" />
-              <folding />
+            <state relative-caret-position="120">
+              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding>
+                <element signature="e#42#73#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -664,7 +666,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500293045225</updated>
-      <workItem from="1500293046787" duration="4264000" />
+      <workItem from="1500293046787" duration="6706000" />
     </task>
     <servers />
   </component>
@@ -678,9 +680,18 @@
     <history-entry file="ImageNameValidatorTest - 2017.07.17 at 14h 09m 13s.xml">
       <configuration name="ImageNameValidatorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ImageNameValidatorTest - 2017.07.17 at 14h 54m 18s.xml">
+      <configuration name="ImageNameValidatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageNameValidatorTest - 2017.07.17 at 14h 54m 41s.xml">
+      <configuration name="ImageNameValidatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImageNameValidatorTest - 2017.07.17 at 14h 58m 26s.xml">
+      <configuration name="ImageNameValidatorTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4264000" />
+    <option name="totallyTimeSpent" value="6706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -773,9 +784,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/groovy/com/spock/examples/parameterized/ImageNameValidatorTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="53" column="64" lean-forward="false" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="64" />
-          <folding />
+        <state relative-caret-position="120">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="e#42#73#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

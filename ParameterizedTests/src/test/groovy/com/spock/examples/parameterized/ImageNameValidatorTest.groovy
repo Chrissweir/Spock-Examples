@@ -1,11 +1,16 @@
 package com.spock.examples.parameterized
 
 import spock.lang.Specification
+import spock.lang.Unroll
 
 /**
  * Created by cweir on 17/07/2017.
  */
 class ImageNameValidatorTest extends Specification {
+
+    def setupSpec(){
+        println "Setup prepares first run"
+    }
     //This is an example of duplication of unit test i.e. bad practice
    /* def "Valid images are JPG"(){
         given:"an image extension checker and a jpg file"
