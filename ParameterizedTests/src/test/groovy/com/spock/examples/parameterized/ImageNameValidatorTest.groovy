@@ -1,5 +1,6 @@
 package com.spock.examples.parameterized
 
+import spock.lang.Narrative
 import spock.lang.Specification
 import spock.lang.Unroll
 
@@ -75,5 +76,18 @@ class ImageNameValidatorTest extends Specification {
         "car.png"         || true         | ""         | ""
         "sky.tiff"        || false        | "ERROR002" | "Tiff files are not supported"
         "dance_bunny.gif" || false        | "ERROR999" | "Unsupported file type"
+    }
+
+    //Example of Data Pipes
+    def "Valid images are PNG and JPEG files only"(){
+        given: "an image extension checker"
+        ImageNameValidator validator = new ImageNameValidator()
+
+        expect: "that only valid filenames are accepted"
+        validator.isValidImageExtension(pictureFile) == validPicture
+
+        where:"sample image names are"
+        pictureFile << ["scenery.jpg","house.jpeg","car.png","sky.tiff","dance_bunny.gif"]
+        validPicture << [true,true,true,false,false]
     }
 }
