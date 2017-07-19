@@ -34,7 +34,6 @@ public class ImageNameValidator {
         check.setErrorCode("ERROR999");
         check.setErrorDescription("Unsupported file type");
         }
-
         return check;
     }
 }
