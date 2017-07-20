@@ -1,3 +1,5 @@
+package stubs
+
 import com.spock.example.Basket
 import com.spock.example.Product
 import com.spock.example.stubs.WarehouseInventory

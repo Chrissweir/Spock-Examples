@@ -1,3 +1,5 @@
+package stubs
+
 import com.spock.example.Basket
 import com.spock.example.Product
 import com.spock.example.stubs.WarehouseInventory
@@ -42,6 +44,24 @@ class ArgumentStubbingSpec extends Specification{
 
         when:"user checks out the TV"
         basket.addProduct tv
+
+        then: "order can be shipped right away"
+        basket.canShipCompletely()
+    }
+    def "If warehouse has both products everything is fine"() {
+        given: "a basket, a TV and a camera"
+        Product tv = new Product(name:"bravia",price:1200,weight:18)
+        Product camera = new Product(name:"panasonic",price:350,weight:2)
+        Basket basket = new Basket()
+
+        and:"a warehouse with enough stock"
+        WarehouseInventory inventory = Stub(WarehouseInventory)
+        inventory.isProductAvailable( _, 1) >> true
+        basket.setWarehouseInventory(inventory)
+
+        when: "user checks out the tv and the camera"
+        basket.addProduct tv
+        basket.addProduct camera
 
         then: "order can be shipped right away"
         basket.canShipCompletely()
