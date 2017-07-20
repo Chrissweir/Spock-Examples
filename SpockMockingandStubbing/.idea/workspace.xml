@@ -57,11 +57,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SequenceStubbingSpec.groovy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SequenceStubbingSpec.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/groovy/stubs/SequenceStubbingSpec.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+            <state relative-caret-position="395">
+              <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+              <folding>
+                <element signature="e#15#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExceptionStubbingSpec.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/groovy/stubs/ExceptionStubbingSpec.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
               <folding>
                 <element signature="e#15#46#0" expanded="true" />
               </folding>
@@ -86,6 +98,7 @@
         <option value="$PROJECT_DIR$/src/test/groovy/stubs/ArgumentStubbingSpec.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/stubs/GroupedStubbedSpec.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/stubs/SequenceStubbingSpec.groovy" />
+        <option value="$PROJECT_DIR$/src/test/groovy/stubs/ExceptionStubbingSpec.groovy" />
       </list>
     </option>
   </component>
@@ -197,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SequenceStubbingSpec">
+  <component name="RunManager" selected="JUnit.ExceptionStubbingSpec">
     <configuration name="ArgumentDifferentiationStubbingSpec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="SpockMockingandStubbing" />
@@ -225,6 +238,31 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="stubs" />
       <option name="MAIN_CLASS_NAME" value="stubs.ArgumentStubbingSpec" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ExceptionStubbingSpec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="stubs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="SpockMockingandStubbing" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="stubs" />
+      <option name="MAIN_CLASS_NAME" value="stubs.ExceptionStubbingSpec" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -363,18 +401,20 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.SimpleStubbingSpec" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.ArgumentStubbingSpec" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.ArgumentDifferentiationStubbingSpec" />
       <item index="3" class="java.lang.String" itemvalue="JUnit.SequenceStubbingSpec" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ExceptionStubbingSpec" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SequenceStubbingSpec" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ArgumentStubbingSpec" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ArgumentDifferentiationStubbingSpec" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SimpleStubbingSpec" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ExceptionStubbingSpec" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SequenceStubbingSpec" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ArgumentStubbingSpec" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ArgumentDifferentiationStubbingSpec" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SimpleStubbingSpec" />
       </list>
     </recent_temporary>
   </component>
@@ -388,22 +428,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500479331716</updated>
-      <workItem from="1500479333106" duration="5209000" />
+      <workItem from="1500479333106" duration="5885000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArgumentStubbingSpec - 2017.07.20 at 09h 16m 15s.xml">
-      <configuration name="ArgumentStubbingSpec" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArgumentStubbingSpec - 2017.07.20 at 09h 20m 06s.xml">
-      <configuration name="ArgumentStubbingSpec" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArgumentStubbingSpec - 2017.07.20 at 09h 26m 33s.xml">
-      <configuration name="ArgumentStubbingSpec" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ArgumentStubbingSpec - 2017.07.20 at 11h 11m 00s.xml">
       <configuration name="ArgumentStubbingSpec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionStubbingSpec - 2017.07.20 at 11h 36m 16s.xml">
+      <configuration name="ExceptionStubbingSpec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionStubbingSpec - 2017.07.20 at 11h 36m 48s.xml">
+      <configuration name="ExceptionStubbingSpec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionStubbingSpec - 2017.07.20 at 11h 37m 01s.xml">
+      <configuration name="ExceptionStubbingSpec" configurationId="JUnit" />
     </history-entry>
     <history-entry file="SequenceStubbingSpec - 2017.07.20 at 11h 25m 56s.xml">
       <configuration name="SequenceStubbingSpec" configurationId="JUnit" />
@@ -425,7 +465,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5209000" />
+    <option name="totallyTimeSpent" value="5885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -440,7 +480,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -525,8 +565,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/groovy/stubs/SequenceStubbingSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        <state relative-caret-position="395">
+          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="e#15#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/stubs/ExceptionStubbingSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
             <element signature="e#15#46#0" expanded="true" />
           </folding>
