@@ -5,7 +5,7 @@ import com.spock.example.Product
 import com.spock.example.stubs.WarehouseInventory
 import spock.lang.Specification
 
-class GroupedStubbedSpec extends Specification{
+class GroupedStubbingSpec extends Specification{
     def "If warehouse does not have all products, order cannot be shipped"(){
         given: "an empty basket, a TV and a camera"
         Product tv = new Product(name: "bravia",price: 1200, weight: 18)
