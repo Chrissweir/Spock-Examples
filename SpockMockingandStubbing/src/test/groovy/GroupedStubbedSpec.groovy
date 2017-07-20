@@ -3,7 +3,7 @@ import com.spock.example.Product
 import com.spock.example.stubs.WarehouseInventory
 import spock.lang.Specification
 
-class ArgumentDifferentiationStubbingSpec extends Specification{
+class GroupedStubbedSpec extends Specification{
     def "If warehouse does not have all products, order cannot be shipped"(){
         given: "an empty basket, a TV and a camera"
         Product tv = new Product(name: "bravia",price: 1200, weight: 18)
@@ -12,10 +12,11 @@ class ArgumentDifferentiationStubbingSpec extends Specification{
 
         and: "a warehouse with partial availability"
         //Creating a Spock Stub
-        WarehouseInventory inventory = Stub(WarehouseInventory)
-        inventory.isProductAvailable("bravia",1) >> true
-        inventory.isProductAvailable("panasonic", 1) >> false
-        inventory.isEmpty() >> false
+        WarehouseInventory inventory = Stub(WarehouseInventory){
+            isProductAvailable("bravia",1) >> true
+            isProductAvailable("panasonic", 1) >> false
+            isEmpty() >> false
+        }
         basket.setWarehouseInventory(inventory)
 
         when:"user checks out both products"
