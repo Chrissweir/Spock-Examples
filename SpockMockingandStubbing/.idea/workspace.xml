@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f48a7bbf-6280-43a7-aeba-865e0ac2176b" name="Default" comment="" />
+    <list default="true" id="f48a7bbf-6280-43a7-aeba-865e0ac2176b" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ParameterizedTests/target/test-classes/com/spock/examples/parameterized/ImageNameValidatorTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/maven-base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/maven-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/print.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/dependencies.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/dependency-convergence.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/dependency-info.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/collapsed.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/expanded.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/external.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_error_sml.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_info_sml.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_success_sml.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_warning_sml.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/maven-feather.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/newwindow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/plugin-management.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/plugins.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/project-info.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/project-summary.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/spock/example/stubs/WarehouseInventory.java" afterPath="$PROJECT_DIR$/src/main/java/com/spock/example/stubs/WarehouseInventory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/stubs/ArgumentStubbingSpec.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/stubs/ArgumentStubbingSpec.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-mocks.ArgumentTypeVerificationSpec.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-mocks.ArgumentTypeVerificationSpec.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-mocks.ArgumentVerificationSpec.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-mocks.ArgumentVerificationSpec.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-mocks.ComplexMockingSpec.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-mocks.ComplexMockingSpec.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-mocks.OrderMockingSpec.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-mocks.OrderMockingSpec.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-mocks.SimpleMockingSpec.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-mocks.SimpleMockingSpec.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-mocks.VerificationMockingSpec.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-mocks.VerificationMockingSpec.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-stubs.ArgumentStubbingSpec.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-stubs.ArgumentStubbingSpec.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-stubs.DynamicStubbingSpec.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-stubs.DynamicStubbingSpec.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-stubs.ExceptionStubbingSpec.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-stubs.ExceptionStubbingSpec.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-stubs.GroupedStubbingSpec.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-stubs.GroupedStubbingSpec.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-stubs.SequenceStubbingSpec.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-stubs.SequenceStubbingSpec.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-stubs.SimpleStubbingSpec.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-stubs.SimpleStubbingSpec.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-stubs.StubsInStubsSpec.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-stubs.StubsInStubsSpec.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +58,7 @@
       <file leaf-file-name="ComplexMockingSpec.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/groovy/mocks/ComplexMockingSpec.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
+            <state relative-caret-position="1326">
               <caret line="78" column="1" lean-forward="false" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
               <folding>
                 <element signature="e#15#47#0" expanded="true" />
@@ -25,17 +67,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-32">
-              <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+            <state relative-caret-position="-67">
+              <caret line="32" column="30" lean-forward="false" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WarehouseInventory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/spock/example/stubs/WarehouseInventory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="579">
+              <caret line="50" column="5" lean-forward="false" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArgumentStubbingSpec.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/groovy/stubs/ArgumentStubbingSpec.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1105">
+              <caret line="70" column="4" lean-forward="false" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -48,7 +113,6 @@
         <option value="$PROJECT_DIR$/src/test/groovy/ArgumentDifferentiationStubbingSpec.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/ArgumentStubbingSpec.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/GroupedStubbedSpec.groovy" />
-        <option value="$PROJECT_DIR$/src/test/groovy/stubs/ArgumentStubbingSpec.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/stubs/GroupedStubbedSpec.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/stubs/SequenceStubbingSpec.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/stubs/ExceptionStubbingSpec.groovy" />
@@ -61,6 +125,8 @@
         <option value="$PROJECT_DIR$/src/test/groovy/mocks/ArgumentVerificationSpec.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/mocks/ComplexMockingSpec.groovy" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spock/example/stubs/WarehouseInventory.java" />
+        <option value="$PROJECT_DIR$/src/test/groovy/stubs/ArgumentStubbingSpec.groovy" />
       </list>
     </option>
   </component>
@@ -76,6 +142,7 @@
     <option name="width" value="1612" />
     <option name="height" value="867" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -91,7 +158,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,13 +169,71 @@
               <item name="SpockMockingandStubbing" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpockMockingandStubbing" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SpockMockingandStubbing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpockMockingandStubbing" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpockMockingandStubbing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpockMockingandStubbing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpockMockingandStubbing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpockMockingandStubbing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpockMockingandStubbing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpockMockingandStubbing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpockMockingandStubbing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpockMockingandStubbing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpockMockingandStubbing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpockMockingandStubbing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="stubs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpockMockingandStubbing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpockMockingandStubbing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpockMockingandStubbing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpockMockingandStubbing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpockMockingandStubbing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpockMockingandStubbing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+              <item name="stubs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -359,7 +487,8 @@
       <option name="presentableId" value="Default" />
       <updated>1500479331716</updated>
       <workItem from="1500479333106" duration="16444000" />
-      <workItem from="1500623216717" duration="9375000" />
+      <workItem from="1500623216717" duration="10041000" />
+      <workItem from="1500651574338" duration="905000" />
     </task>
     <servers />
   </component>
@@ -396,7 +525,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25819000" />
+    <option name="totallyTimeSpent" value="27390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -404,14 +533,13 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20626631" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20626631" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -421,12 +549,13 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -442,6 +571,24 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/mocks/ComplexMockingSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="1" lean-forward="false" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+          <folding>
+            <element signature="e#15#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/groovy/mocks/VerificationMockingSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -457,13 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/stubs/ArgumentStubbingSpec.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="88" column="5" lean-forward="true" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -492,9 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="61" column="32" lean-forward="true" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
-          <folding>
-            <element signature="e#15#46#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -509,9 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-75">
           <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-          <folding>
-            <element signature="e#15#47#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -519,9 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="30" column="70" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="70" />
-          <folding>
-            <element signature="e#15#46#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -539,9 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4">
           <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="4" />
-          <folding>
-            <element signature="e#15#46#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -557,7 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-85">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -573,7 +700,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/groovy/mocks/ComplexMockingSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
+        <state relative-caret-position="1326">
           <caret line="78" column="1" lean-forward="false" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
           <folding>
             <element signature="e#15#47#0" expanded="true" />
@@ -583,8 +710,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32">
-          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        <state relative-caret-position="-67">
+          <caret line="32" column="30" lean-forward="false" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spock/example/stubs/WarehouseInventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="50" column="5" lean-forward="false" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/stubs/ArgumentStubbingSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="70" column="4" lean-forward="false" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
           <folding />
         </state>
       </provider>

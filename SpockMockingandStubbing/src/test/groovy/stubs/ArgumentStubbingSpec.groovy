@@ -68,6 +68,7 @@ class ArgumentStubbingSpec extends Specification{
         then: "order can be shipped right away"
         basket.canShipCompletely()
     }
+    
     def "If warehouse is fully stocked everything is fine"() {
         given: "a basket, a TV and a camera"
         Product tv = new Product(name:"bravia",price:1200,weight:18)

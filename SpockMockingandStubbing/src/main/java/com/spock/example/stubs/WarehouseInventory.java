@@ -25,8 +25,6 @@ public class WarehouseInventory {
 		{
 			inventory.put(productName, after);
 		}
-		
-		
 	}
 	
 	public int isProductAvailable(String productName)
@@ -51,7 +49,4 @@ public class WarehouseInventory {
 	{
 		return inventory.isEmpty();
 	}
-	
-	
-
 }
