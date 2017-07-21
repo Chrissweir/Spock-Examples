@@ -16,8 +16,8 @@
       <file leaf-file-name="ArgumentVerificationSpec.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/groovy/mocks/ArgumentVerificationSpec.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            <state relative-caret-position="344">
+              <caret line="46" column="32" lean-forward="false" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
               <folding>
                 <element signature="e#15#46#0" expanded="true" />
               </folding>
@@ -413,23 +413,11 @@
       <option name="presentableId" value="Default" />
       <updated>1500479331716</updated>
       <workItem from="1500479333106" duration="16444000" />
-      <workItem from="1500623216717" duration="1837000" />
+      <workItem from="1500623216717" duration="2578000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArgumentTypeVerificationSpec - 2017.07.21 at 08h 59m 23s.xml">
-      <configuration name="ArgumentTypeVerificationSpec" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArgumentTypeVerificationSpec - 2017.07.21 at 08h 59m 40s.xml">
-      <configuration name="ArgumentTypeVerificationSpec" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArgumentTypeVerificationSpec - 2017.07.21 at 09h 00m 06s.xml">
-      <configuration name="ArgumentTypeVerificationSpec" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArgumentTypeVerificationSpec - 2017.07.21 at 09h 03m 41s.xml">
-      <configuration name="ArgumentTypeVerificationSpec" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ArgumentTypeVerificationSpec - 2017.07.21 at 09h 04m 02s.xml">
       <configuration name="ArgumentTypeVerificationSpec" configurationId="JUnit" />
     </history-entry>
@@ -442,15 +430,27 @@
     <history-entry file="ArgumentVerificationSpec - 2017.07.21 at 09h 21m 03s.xml">
       <configuration name="ArgumentVerificationSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VerificationMockingSpec - 2017.07.20 at 16h 23m 56s.xml">
-      <configuration name="VerificationMockingSpec" configurationId="JUnit" />
+    <history-entry file="ArgumentVerificationSpec - 2017.07.21 at 09h 43m 15s.xml">
+      <configuration name="ArgumentVerificationSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VerificationMockingSpec - 2017.07.20 at 16h 39m 08s.xml">
-      <configuration name="VerificationMockingSpec" configurationId="JUnit" />
+    <history-entry file="ArgumentVerificationSpec - 2017.07.21 at 09h 44m 07s.xml">
+      <configuration name="ArgumentVerificationSpec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArgumentVerificationSpec - 2017.07.21 at 09h 44m 36s.xml">
+      <configuration name="ArgumentVerificationSpec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArgumentVerificationSpec - 2017.07.21 at 09h 45m 10s.xml">
+      <configuration name="ArgumentVerificationSpec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArgumentVerificationSpec - 2017.07.21 at 09h 45m 24s.xml">
+      <configuration name="ArgumentVerificationSpec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArgumentVerificationSpec - 2017.07.21 at 09h 45m 43s.xml">
+      <configuration name="ArgumentVerificationSpec" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18281000" />
+    <option name="totallyTimeSpent" value="19022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -614,8 +614,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/groovy/mocks/ArgumentVerificationSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        <state relative-caret-position="344">
+          <caret line="46" column="32" lean-forward="false" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
           <folding>
             <element signature="e#15#46#0" expanded="true" />
           </folding>
