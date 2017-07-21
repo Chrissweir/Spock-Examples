@@ -13,23 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="VerificationMockingSpec.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/groovy/mocks/VerificationMockingSpec.groovy">
+      <file leaf-file-name="ArgumentVerificationSpec.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/groovy/mocks/ArgumentVerificationSpec.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="70" column="53" lean-forward="true" selection-start-line="70" selection-start-column="53" selection-end-line="70" selection-end-column="53" />
-              <folding>
-                <element signature="e#15#46#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArgumentTypeVerificationSpec.groovy" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/groovy/mocks/ArgumentTypeVerificationSpec.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="562">
-              <caret line="45" column="55" lean-forward="false" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+            <state relative-caret-position="310">
+              <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
               <folding>
                 <element signature="e#15#46#0" expanded="true" />
               </folding>
@@ -61,6 +49,7 @@
         <option value="$PROJECT_DIR$/src/test/groovy/mocks/OrderMockingSpec.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/mocks/VerificationMockingSpec.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/mocks/ArgumentTypeVerificationSpec.groovy" />
+        <option value="$PROJECT_DIR$/src/test/groovy/mocks/ArgumentVerificationSpec.groovy" />
       </list>
     </option>
   </component>
@@ -190,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArgumentTypeVerificationSpec">
+  <component name="RunManager" selected="JUnit.ArgumentVerificationSpec">
     <configuration name="ArgumentTypeVerificationSpec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -203,6 +192,31 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="mocks" />
       <option name="MAIN_CLASS_NAME" value="mocks.ArgumentTypeVerificationSpec" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ArgumentVerificationSpec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="mocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="SpockMockingandStubbing" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="mocks" />
+      <option name="MAIN_CLASS_NAME" value="mocks.ArgumentVerificationSpec" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -253,31 +267,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="mocks" />
       <option name="MAIN_CLASS_NAME" value="mocks.SimpleMockingSpec" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="StubsInStubsSpec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="stubs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="SpockMockingandStubbing" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="stubs" />
-      <option name="MAIN_CLASS_NAME" value="stubs.StubsInStubsSpec" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -397,19 +386,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.StubsInStubsSpec" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SimpleMockingSpec" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.OrderMockingSpec" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.VerificationMockingSpec" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ArgumentTypeVerificationSpec" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SimpleMockingSpec" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.OrderMockingSpec" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.VerificationMockingSpec" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ArgumentTypeVerificationSpec" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ArgumentVerificationSpec" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ArgumentTypeVerificationSpec" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.VerificationMockingSpec" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.OrderMockingSpec" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SimpleMockingSpec" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.StubsInStubsSpec" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ArgumentVerificationSpec" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ArgumentTypeVerificationSpec" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.VerificationMockingSpec" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.OrderMockingSpec" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SimpleMockingSpec" />
       </list>
     </recent_temporary>
   </component>
@@ -424,7 +413,7 @@
       <option name="presentableId" value="Default" />
       <updated>1500479331716</updated>
       <workItem from="1500479333106" duration="16444000" />
-      <workItem from="1500623216717" duration="1124000" />
+      <workItem from="1500623216717" duration="1837000" />
     </task>
     <servers />
   </component>
@@ -447,11 +436,11 @@
     <history-entry file="ArgumentTypeVerificationSpec - 2017.07.21 at 09h 05m 56s.xml">
       <configuration name="ArgumentTypeVerificationSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SimpleMockingSpec - 2017.07.20 at 15h 38m 30s.xml">
-      <configuration name="SimpleMockingSpec" configurationId="JUnit" />
+    <history-entry file="ArgumentVerificationSpec - 2017.07.21 at 09h 20m 43s.xml">
+      <configuration name="ArgumentVerificationSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VerificationMockingSpec - 2017.07.20 at 16h 10m 02s.xml">
-      <configuration name="VerificationMockingSpec" configurationId="JUnit" />
+    <history-entry file="ArgumentVerificationSpec - 2017.07.21 at 09h 21m 03s.xml">
+      <configuration name="ArgumentVerificationSpec" configurationId="JUnit" />
     </history-entry>
     <history-entry file="VerificationMockingSpec - 2017.07.20 at 16h 23m 56s.xml">
       <configuration name="VerificationMockingSpec" configurationId="JUnit" />
@@ -461,7 +450,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17568000" />
+    <option name="totallyTimeSpent" value="18281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -615,8 +604,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/groovy/mocks/ArgumentTypeVerificationSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="45" column="55" lean-forward="false" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+        <state relative-caret-position="4">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <element signature="e#15#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/mocks/ArgumentVerificationSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
           <folding>
             <element signature="e#15#46#0" expanded="true" />
           </folding>
